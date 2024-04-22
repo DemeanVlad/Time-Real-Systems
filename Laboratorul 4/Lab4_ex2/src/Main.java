@@ -10,7 +10,7 @@ public class Main {
 
         Fir f1 = new Fir(s,2,4,1,4,3);
 
-        Fir2 f2 = new Fir2(s,s1, 2, 4, 1, 4);
+        Fir2 f2 = new Fir2(s,1,1,1,1,1,s1);
 
         Fir f3 = new Fir(s,2, 4, 1, 1, 3);
 

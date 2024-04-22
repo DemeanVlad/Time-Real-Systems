@@ -5,7 +5,7 @@ import java.util.concurrent.CyclicBarrier;
 
 class Fir extends Thread {
     CyclicBarrier bariera;
-    Semaphore s;
+    Semaphore s,s1;
     int activity_max, activity_min, permise, sleep;
 
     public Fir(Semaphore s, int min_activity, int max_activity, int permise, int sleep, int bariera) {
