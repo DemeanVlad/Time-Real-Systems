@@ -38,6 +38,7 @@ class Fir extends Thread {
             } catch (InterruptedException e) {
                 e.printStackTrace();
                 this.s.release(1);
+                System.out.println("Fir2 am dat");
                 System.out.println(this.getName() + " - STATE 3");
                 try {
                     bariera.await(); // asteapta aici
