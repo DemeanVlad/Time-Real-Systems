@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Ppozplant {
+public class Ppozplant {
+    int x;
 }

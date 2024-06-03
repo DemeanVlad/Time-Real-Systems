@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Pcmd {
+public class Pcmd {
+    int cmd;
 }

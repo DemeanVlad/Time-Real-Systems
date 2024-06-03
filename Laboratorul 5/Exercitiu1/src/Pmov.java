@@ -1,0 +1,5 @@
+class Pmov {
+
+    int x;
+
+} 

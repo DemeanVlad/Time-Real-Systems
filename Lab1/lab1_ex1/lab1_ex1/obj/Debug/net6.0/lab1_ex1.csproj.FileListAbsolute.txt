@@ -1,0 +1,15 @@
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.AssemblyInfo.cs
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/bin/Debug/net6.0/lab1_ex1
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/bin/Debug/net6.0/lab1_ex1.deps.json
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/bin/Debug/net6.0/lab1_ex1.runtimeconfig.json
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/bin/Debug/net6.0/lab1_ex1.dll
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/bin/Debug/net6.0/lab1_ex1.pdb
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.dll
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/refint/lab1_ex1.dll
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.pdb
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/lab1_ex1.genruntimeconfig.cache
+/Users/mac/Desktop/lab1_ex1/lab1_ex1/obj/Debug/net6.0/ref/lab1_ex1.dll

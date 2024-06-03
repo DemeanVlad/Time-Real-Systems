@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Pfeedback {
+public class Pfeedback {
+    int x;
 }

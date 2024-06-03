@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Ptask {
+public class Ptask {
+    int x;
 }
